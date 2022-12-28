@@ -10,9 +10,9 @@ B. your hardware id is saved in playfab to let you login to your playfab/ApeVR a
 2. how we use your data.
 We use your data to save in-game items and have your own account. We also use it so we can have moderation in our game. We do this by checking if the player that has just logged it have a certain item in there account and your data is need to do this.
 
-2.Services we use
-A. Playfab
-B. Photon
+2.Services we use (click the links attached to them to read more info about them)
+A. Playfab - https://dashboard.photonengine.com/en/Account/PrivacyAndCookiePolicy
+B. Photon - https://playfab.com/terms/
 
 3. why we use the services
 A. we use these to make the gameplay experience fun and smooth
